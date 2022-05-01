@@ -1,5 +1,6 @@
 body {
     font-family: 'Dosis', sans-serif;
+    font-size:2em;
     color:ghostwhite;
     background-color: #b0a6ff;
 }
@@ -37,4 +38,14 @@ body {
 #nav-list a:hover, #nav-list a:focus{
     color : orangered;
     text-decoration:none;
+}
+
+div#main-content h2, div#main-content h3 {
+    text-shadow: 3px 3px 2px black; 
+}
+
+.row .section{
+    background-color:navy;
+    margin-bottom:15px;
+ 
 }

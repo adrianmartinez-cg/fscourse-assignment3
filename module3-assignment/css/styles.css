@@ -41,11 +41,12 @@ body {
 }
 
 div#main-content h2, div#main-content h3 {
+    font-weight: bold;
     text-shadow: 3px 3px 2px black; 
 }
 
 .row .section{
     background-color:navy;
-    margin-bottom:15px;
- 
+    margin-bottom:30px;
+    padding:5%;
 }
